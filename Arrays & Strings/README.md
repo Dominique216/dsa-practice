@@ -9,3 +9,4 @@
 | Permutation Difference between Two Strings|https://leetcode.com/problems/permutation-difference-between-two-strings/description/ |O(n) / O(n)| 02/05/25   |
 | Check If Word Is Valid After Substitutions|https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/ |O(n) / O(n)| 02/11/25   |
 | Maximum Average Subarray I|https://leetcode.com/problems/maximum-average-subarray-i/ |O(n) / O(1)| 02/13/25   |
+| Merge Sorted Array |https://leetcode.com/problems/merge-sorted-array/ |O(n) / O(1)| 02/18/25   |

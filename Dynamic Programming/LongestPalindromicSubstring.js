@@ -1,6 +1,6 @@
 /** 
  * The question for this problem can be found here: 
- * https://leetcode.com/problems/longest-palindromic-substring/description/
+ * https://leetcode.com/problems/longest-palindromic-substring/
  */
 
 

@@ -11,3 +11,4 @@
 | Maximum Average Subarray I|https://leetcode.com/problems/maximum-average-subarray-i/ |O(n) / O(1)| 02/13/25   |
 | Merge Sorted Array |https://leetcode.com/problems/merge-sorted-array/ |O(n) / O(1)| 02/18/25   |
 | Sum Of Distances |https://leetcode.com/problems/sum-of-distances/ |TBD / O(n)| 02/21/25   |
+| Minimum Recolors to Get K Consecutive Black Blocks |https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks | O(n) / O(n)| 03/03/25   |

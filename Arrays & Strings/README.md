@@ -14,3 +14,4 @@
 | Minimum Recolors to Get K Consecutive Black Blocks |https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks | O(n) / O(n)| 03/03/25   |
 | Check if All Characters Have Equal Number of Occurrences |https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/ | O(n) / O(n)| 03/04/25   |
 | longest-consecutive-sequence  | https://neetcode.io/problems/longest-consecutive-sequence | O(n) / O(n) | 04/04/25 |
+| two-integer-sum-ii  | https://neetcode.io/problems/two-integer-sum-ii | O(n) / O(1) | 04/06/25 |

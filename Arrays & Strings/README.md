@@ -16,3 +16,4 @@
 | longest-consecutive-sequence  | https://neetcode.io/problems/longest-consecutive-sequence | O(n) / O(n) | 04/04/25 |
 | two-integer-sum-ii  | https://neetcode.io/problems/two-integer-sum-ii | O(n) / O(1) | 04/06/25 |
 | max-water-container  | https://neetcode.io/problems/max-water-container | O(n) / O(1) | 04/07/25 |
+|  longest-substring-without-duplicates | https://neetcode.io/problems/longest-substring-without-duplicates | O(n) / O(n) | 04/08/25 |
